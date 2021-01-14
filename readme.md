@@ -4,7 +4,7 @@ Create an app that fetches a list of contacts and
 displays them in a table according to our style guide
 ## Installation
 
-Use the package manager [node](https://nodejs.org/en/) to install foobar.
+Use the package manager [node](https://nodejs.org/en/) to run Code_Challange.
 
 ```bash
 git clone https://github.com/palashjain2801/Code_Challenge
