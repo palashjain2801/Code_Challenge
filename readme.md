@@ -25,6 +25,10 @@ I am using cors-anywhere, which enables API to perform cross-origin requests to 
   - Goto:  Code_challange -> src -> RowSelector.js and modify   const proxy = proxyServers[2];
 
 ```
+## Code Available and Details 
+CodeSanbox :  https://codesandbox.io/s/coding-challenge-m0rw5
+
+NOTE: Code might not run in sandbox due to Blocked API Call. Kindly run code in local machine
 
 ## Tech Used
 
