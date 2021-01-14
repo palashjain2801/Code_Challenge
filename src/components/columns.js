@@ -14,18 +14,18 @@ export const COLUMNS = [
   },
   {
     Header: "Contact Tags",
-    accessor: "links.contactTags"
+    accessor: "contactTags"
   },
   {
     Header: "deals",
-    accessor: "links.deals"
+    accessor: "deals"
   },
   {
     Header: "total",
-    accessor: "links.scoreValues"
+    accessor: "total"
   },
   {
     Header: "location",
-    accessor: "links.geoIps"
+    accessor: "geoIps"
   }
 ];
