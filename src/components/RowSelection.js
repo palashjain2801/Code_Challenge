@@ -12,7 +12,7 @@ export const RowSelection = () => {
   const [prevState, setState] = React.useState([]);
   const [row, setrow] = useState([])
   const proxyServers = ["https://cors-anywhere.herokuapp.com/","https://crossorigin.me/","http://localhost:8080/"];
-  const proxy = proxyServers[2];
+  const proxy = proxyServers[0];
   const getfetcheddata = (urlextn, reqvalue,callback) => {
     // console.log("👉👉👉", urlextn)
     let dataFromServer = "";

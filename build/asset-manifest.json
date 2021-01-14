@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//palashjain2801.github.io/Code_Challenge/static/css/main.b8c4a131.chunk.css",
+    "main.js": "//palashjain2801.github.io/Code_Challenge/static/js/main.e1ed491a.chunk.js",
+    "main.js.map": "//palashjain2801.github.io/Code_Challenge/static/js/main.e1ed491a.chunk.js.map",
+    "runtime-main.js": "//palashjain2801.github.io/Code_Challenge/static/js/runtime-main.51213262.js",
+    "runtime-main.js.map": "//palashjain2801.github.io/Code_Challenge/static/js/runtime-main.51213262.js.map",
+    "static/js/2.4f32abe6.chunk.js": "//palashjain2801.github.io/Code_Challenge/static/js/2.4f32abe6.chunk.js",
+    "static/js/2.4f32abe6.chunk.js.map": "//palashjain2801.github.io/Code_Challenge/static/js/2.4f32abe6.chunk.js.map",
+    "index.html": "//palashjain2801.github.io/Code_Challenge/index.html",
+    "precache-manifest.8e50c96853528baeefae147ea6b7c889.js": "//palashjain2801.github.io/Code_Challenge/precache-manifest.8e50c96853528baeefae147ea6b7c889.js",
+    "service-worker.js": "//palashjain2801.github.io/Code_Challenge/service-worker.js",
+    "static/css/main.b8c4a131.chunk.css.map": "//palashjain2801.github.io/Code_Challenge/static/css/main.b8c4a131.chunk.css.map",
+    "static/js/2.4f32abe6.chunk.js.LICENSE.txt": "//palashjain2801.github.io/Code_Challenge/static/js/2.4f32abe6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51213262.js",
+    "static/js/2.4f32abe6.chunk.js",
+    "static/css/main.b8c4a131.chunk.css",
+    "static/js/main.e1ed491a.chunk.js"
+  ]
+}
