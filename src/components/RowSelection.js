@@ -8,13 +8,13 @@ export const RowSelection = () => {
   const columns = useMemo(() => COLUMNS, []);
   const [data, setData] = useState([]);
   const [row,setrow]=useState([])
-const proxy = "https://cors-proxy.htmldriven.com/?url="
+const proxy = "https://cors-proxy.htmldriven.com/"
 
 const getfetcheddata = (urlextn, reqvalue) =>{
   console.log("👉👉👉",urlextn)
   let dataFromServer = "";
   fetch(
-    proxy+"https://sahmed93846.api-us1.com/" + urlextn,
+    proxy+ "https://sahmed93846.api-us1.com/" + urlextn,
     {
       headers: {
         "Content-Type": "application/json",
@@ -39,6 +39,7 @@ const getfetcheddata = (urlextn, reqvalue) =>{
     .catch((err) => {
       console.error(err);
     });
+    
     return dataFromServer;
 
 }
