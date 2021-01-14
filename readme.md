@@ -33,10 +33,14 @@ I am using cors-anywhere, which enables API to perform cross-origin requests to 
 * [node.js]
 
 
+
 ## Images of Output:
 #### This Display fetched data from Active Campaign API into Tabular format
+* Empty cell indicates , No Data available in API
+
 ![Table](https://github.com/palashjain2801/Code_Challenge/blob/main/Images/1.PNG)
 
 #### This Display how checked row data is fetched and displayed at bottom of screen
-![Table](https://github.com/palashjain2801/Code_Challenge/blob/main/Images/2.PNG)
+* Only one Row selected therefore data of only one row will be displayed.
 
+![Table](https://github.com/palashjain2801/Code_Challenge/blob/main/Images/2.PNG)
